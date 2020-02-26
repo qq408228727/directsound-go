@@ -2,7 +2,8 @@ package main
 
 import (
 	"encoding/binary"
-	"github.com/oov/directsound-go/dsound"
+	//"github.com/oov/directsound-go/dsound"
+	"github.com/qq408228727/directsound-go/dsound"
 	"math"
 	"math/rand"
 	"os"
